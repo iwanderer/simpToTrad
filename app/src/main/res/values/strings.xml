@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpToTrad</string>
+    <string name="from">From</string>
+    <string name="convert">Convert</string>
+    <string name="tips">Enter a word to convert..</string>
+    <string name="network_error">There is an error accured.</string>
+    <string name="simp_to_trad">Simplified to Traditional</string>
+    <string name="trad_to_simp">Traditional to Simplified</string>
+    <string name="simp_to_huoxing">Simplfied to Huoxing</string>
+</resources>

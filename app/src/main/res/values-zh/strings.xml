@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">简繁转换</string>
+    <string name="from">从</string>
+    <string name="convert">转换</string>
+    <string name="tips">请输入要转换的文字</string>
+    <string name="network_error">无法连接网络</string>
+    <string name="simp_to_trad">简转繁</string>
+    <string name="trad_to_simp">繁转简</string>
+    <string name="simp_to_huoxing">简转火星</string>
+</resources>
